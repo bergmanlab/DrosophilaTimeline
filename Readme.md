@@ -17,3 +17,6 @@ Then from the directory containing DrosophilaTimeline.csv, run
 ```
 timeline-setter -c DrosophilaTimeline.csv
 ```
+
+NOTES: 
+- URLs for images inn html slug need to point directly to raw github URL 
