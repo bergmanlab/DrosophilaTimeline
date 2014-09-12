@@ -1,6 +1,6 @@
 **History of Drosophila Genetics**
 
-The fruitfly Drosophila melanogaster has made fundamental contributions to biology for more than 100 years. This timeline attempts to place some of the significant events in the history of Drosophila genetics into context.
+The fruitfly Drosophila melanogaster has made fundamental contributions to biology for more than 100 years. To place some of the significant events in the history of Drosophila genetics into context, this project aims to put these events into a web-based timeline. For a preview of the timeline while it is still a work-in-progress, click [here](http://htmlpreview.github.io/?https://raw.githubusercontent.com/cbergman/DrosophilaTimeline/master/timeline.html)
 
 This timeline is being developed by Casey Bergman at the University of Manchester, using the [Timeline-Setter](https://github.com/propublica/timeline-setter/) package developed by ProPublica. 
 
