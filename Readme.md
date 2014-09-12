@@ -19,4 +19,5 @@ timeline-setter -c DrosophilaTimeline.csv
 ```
 
 NOTES: 
+- raw timeline.html is not rendered at github, need to prefix raw html with http://htmlpreview.github.io 
 - URLs for images inn html slug need to point directly to raw github URL 
