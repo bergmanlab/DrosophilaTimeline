@@ -7,7 +7,7 @@ This timeline is being developed by Casey Bergman at the University of Mancheste
 To regenerate the timeline.html timeline from the DrosophilaTimeline.csv file, install Timeline-Setter as follows:
 
 ```
-wget https://github.com/propublica/timeline-setter/archive/master.zip
+wget -O timeline-setter-master.zip https://github.com/propublica/timeline-setter/archive/master.zip
 unzip timeline-setter-master.zip 
 cd timeline-setter-master
 sudo gem install timeline_setter
